@@ -91,7 +91,7 @@ I'm a **Software Quality Assurance Engineer** at **Saudi Awwal Bank (SAB)**, wit
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=6aa6f8)](www.linkedin.com/in/ahmad-alfantoukh)
-[![Email](https://img.shields.io/badge/Email-Contact_me-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8)](ahmadalfantokh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_me-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8)](malto:ahmadalfantokh@gmail.com)
 
 
 ## 📈 GitHub Stats
