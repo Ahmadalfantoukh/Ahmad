@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ahmadalfantoukh.Ahmadalfantoukh)
 
 ```python
 #!/usr/bin/python
@@ -40,10 +40,10 @@ I'm a **Software Quality Assurance Engineer** at **Saudi Awwal Bank (SAB)**, wit
 
 | Period | Role | Organization |
 |---|---|---|
-| Jan 2026 – Present | Software Quality Assurance Engineer | Saudi Awwal Bank (SAB) |
-| Oct 2024 – Dec 2025 | Wealth Management Associate | Saudi Awwal Bank (SAB) |
-| Jul 2024 – Sep 2024 | IT Project Coordinator (Oracle HCM / ERP implementation) | Holool Aloula (NCBS) |
-| Jul 2023 – Sep 2023 | IT Software Engineer Intern | Saudi Arabian National Guard |
+| Jan 2026 – Present | Software Quality Assurance Engineer | 
+| Oct 2024 – Dec 2025 | Wealth Management Associate | 
+| Jul 2024 – Sep 2024 | IT Project Coordinator (Oracle HCM / ERP implementation) |
+| Jul 2023 – Sep 2023 | IT Software Engineer Intern | 
 
 ## 🎓 Education
 
@@ -90,15 +90,12 @@ I'm a **Software Quality Assurance Engineer** at **Saudi Awwal Bank (SAB)**, wit
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=6aa6f8)](PUT-YOUR-LINKEDIN-URL-HERE)
-[![Email](https://img.shields.io/badge/Email-Contact_me-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8)](mailto:ahmadalfantokh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=6aa6f8)](www.linkedin.com/in/ahmad-alfantoukh)
+[![Email](https://img.shields.io/badge/Email-Contact_me-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8)](ahmadalfantokh@gmail.com)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Ahmadalfantoukh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" />
 </a>
