@@ -97,5 +97,5 @@ I'm a **Software Quality Assurance Engineer** at **Saudi Awwal Bank (SAB)**, wit
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Ahmadalfantoukh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadalfantoukh&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" />
 </a>
